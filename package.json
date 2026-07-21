@@ -91,7 +91,7 @@
     "eslint-plugin-react": "^7.37.5",
     "fs-extra": "^10.1.0",
     "globals": "^17.6.0",
-    "got": "^11.8.5",
+    "got": "^15.1.0",
     "husky": "^9.1.7",
     "istanbul-lib-coverage": "^3.2.0",
     "istanbul-lib-report": "^3.0.0",
